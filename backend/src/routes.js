@@ -8,3 +8,5 @@ router.post('/api/cards/generate', cardController.handleGerarCartelas);
 
 // ... importações
 router.post('/api/cards/reserve', cardController.handleReservarCartela);
+
+router.post('/api/cards/pay', cardController.handleConfirmarPagamento);
