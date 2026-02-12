@@ -1,4 +1,4 @@
-# 🎯 Sistema de Gerenciamento de Bingo (75 Bolas)
+# 🎯 Sistema de Gerenciamento de Bingo (75 Bolas) [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
 Este repositório contém a arquitetura e as especificações técnicas para um Sistema de Gerenciamento de Bingo completo, focado em alta integridade do jogo, gestão de inventário de cartelas (reserva/venda) e comunicação em tempo real via WhatsApp.
 
